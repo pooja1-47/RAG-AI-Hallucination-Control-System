@@ -1,0 +1,22 @@
+Artificial Intelligence is the simulation of human intelligence 
+by machines. It includes machine learning, deep learning, and 
+natural language processing.
+
+Machine Learning is a subset of AI that allows systems to learn 
+from data without being explicitly programmed.
+
+Deep Learning uses neural networks with many layers to learn 
+patterns from large amounts of data.
+
+Natural Language Processing (NLP) allows computers to understand 
+and generate human language.
+
+Retrieval Augmented Generation (RAG) is a technique that combines 
+information retrieval with text generation to produce more accurate 
+and reliable AI responses.
+
+FAISS is Facebook AI Similarity Search - a library for efficient 
+similarity search over high dimensional vectors.
+
+Hallucination in AI refers to when a language model generates 
+information that sounds correct but is factually wrong.

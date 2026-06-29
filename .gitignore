@@ -1,0 +1,21 @@
+# Environment
+.env
+venv/
+
+# Database
+answers.db
+
+# FAISS index
+faiss_index/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
